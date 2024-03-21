@@ -1,0 +1,11 @@
+# Ignore Python cache files
+__pycache__/
+
+# Ignore virtual environment folders
+stock_env/
+
+# Ignore IDE-specific settings (for example, for PyCharm)
+.idea/
+
+# Ignore the database file if you have one
+*.db
